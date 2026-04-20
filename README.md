@@ -56,7 +56,7 @@ GitHub
 
 Q3. Movie Release Trends (Year \& Month)
 
-!\[Q3 Output](screenshots/q3\_movie\_release\_trends\_1.png)
+!\[Q3 Output](q3\_movie\_release\_trends\_1.png)
 
 
 
@@ -68,9 +68,9 @@ Insight: Movie production was highest in 2017 and slightly decreased in 2018, fo
 
 
 
-!\[Q3 Output](screenshots/q3\_movie\_release\_trends\_2.png)
+!\[Q3 Output](q3\_movie\_release\_trends\_2.png)
 
-!\[Q3 Output](screenshots/q3\_movie\_release\_trends\_3.png)
+!\[Q3 Output](q3\_movie\_release\_trends\_3.png)
 
 Insight: Movie releases are not evenly distributed across months. March has the highest number of releases, followed by September and January, indicating that early and mid-year periods are preferred for movie releases. On the other hand, December has the lowest number of releases, suggesting reduced activity towards the end of the year.
 
@@ -80,7 +80,7 @@ Insight: Movie releases are not evenly distributed across months. March has the 
 
 Q6. Which genre had the highest number of movies produced overall?
 
-!\[Q6 Output](screenshots/q6\_most\_popular\_genre.png)
+!\[Q6 Output](q6\_most\_popular\_genre.png)
 
 
 
@@ -92,9 +92,9 @@ Q8. What is the average duration of movies in each genre?
 
 
 
-!\[Q8 Output](screenshots/q8\_average\_movie\_duration\_by\_genre\_1.png)
+!\[Q8 Output](q8\_average\_movie\_duration\_by\_genre\_1.png)
 
-!\[Q8 Output](screenshots/q8\_average\_movie\_duration\_by\_genre\_2.png)
+!\[Q8 Output](q8\_average\_movie\_duration\_by\_genre\_2.png)
 
 
 
@@ -108,7 +108,7 @@ Q11. Which are the top 10 movies based on average rating?
 
 
 
-!\[Q11 Output](screenshots/q11_top_rated_movies.png)
+!\[Q11 Output](q11\_top\_rated\_movies.png)
 
 
 
@@ -122,7 +122,7 @@ Q13. Which production house has produced the most number of hit movies (average 
 
 
 
-!\[Q13 Output](screenshots/q13\_top\_production\_house\_hit\_movies.png)
+!\[Q13 Output](q13\_top\_production\_house\_hit\_movies.png)
 
 
 
@@ -134,7 +134,7 @@ Q22. Top actors in Indian movies based on average ratings
 
 
 
-!\[Q22 Output](screenshots/q22\_top\_ranked\_indian\_actors.png)
+!\[Q22 Output](q22\_top\_ranked\_indian\_actors.png)
 
 
 
@@ -148,7 +148,7 @@ Q23. Top actresses in Hindi movies based on average ratings
 
 
 
-!\[Q23 Output](screenshots/q23\_top\_actresses\_hindi.png)
+!\[Q23 Output](q23\_top\_actresses\_hindi.png)
 
 
 
@@ -158,9 +158,9 @@ Insight: Taapsee Pannu ranks as the top actress with the highest average rating 
 
 Q26. Highest-grossing movies in top genres
 
-!\[Q26 Output](screenshots/q26\_highest\_grossing\_movies\_1.png)
+!\[Q26 Output](q26\_highest\_grossing\_movies\_1.png)
 
-!\[Q26 Output](screenshots/q26\_highest\_grossing\_movies\_2.png)
+!\[Q26 Output](q26\_highest\_grossing\_movies\_2.png)
 
 
 
@@ -174,7 +174,7 @@ Q27. Top production houses for multilingual hit movies
 
 
 
-!\[Q27 Output](screenshots/q27\_multilingual\_hit\_production\_houses.png)
+!\[Q27 Output](q27\_multilingual\_hit\_production\_houses.png)
 
 
 
@@ -186,9 +186,9 @@ Q29. Top directors based on performance and output
 
 
 
-!\[Q29 Output](screenshots/q29\_top\_directors\_summary\_1.png)
+!\[Q29 Output](q29\_top\_directors\_summary\_1.png)
 
-!\[Q29 Output](screenshots/q29\_top\_directors\_summary\_2.png)
+!\[Q29 Output](q29\_top\_directors\_summary\_2.png)
 
 
 
@@ -200,7 +200,7 @@ Insight: A.L. Vijay has directed the highest number of movies among the top dire
 
 queries.sql → Contains all SQL queries
 
-screenshots/ → Contains all output screenshots
+
 
 
 
