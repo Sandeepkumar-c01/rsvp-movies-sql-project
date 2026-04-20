@@ -108,7 +108,7 @@ Q11. Which are the top 10 movies based on average rating?
 
 
 
-!\[Q11 Output](screenshots/q11\_top\_rated\_movies.png)
+!\[Q11 Output](https://github.com/Sandeepkumar-c01/rsvp-movies-sql-project/blob/main/screenshots/q11_top_rated_movies.png?raw=true)
 
 
 
