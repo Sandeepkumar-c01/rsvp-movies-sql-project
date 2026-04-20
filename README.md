@@ -56,7 +56,7 @@ GitHub
 
 Q3. Movie Release Trends (Year \& Month)
 
-!\[Q3 Output](screenshots/q3\_movie\_release\_trends\_1.png)
+!\[Q3 Output](screenshots/q3\_movie\_release\_trends\_1.png?raw=true)
 
 
 
