@@ -56,7 +56,7 @@ GitHub
 
 Q3. Movie Release Trends (Year \& Month)
 
-!\[Q3 Output](screenshots/q3\_movie\_release\_trends\_(1).png)
+!\[Q3 Output](screenshots/q3\_movie\_release\_trends\_1.png)
 
 
 
@@ -68,9 +68,9 @@ Insight: Movie production was highest in 2017 and slightly decreased in 2018, fo
 
 
 
-!\[Q3 Output](screenshots/q3\_movie\_release\_trends\_(2).png)
+!\[Q3 Output](screenshots/q3\_movie\_release\_trends\_2.png)
 
-!\[Q3 Output](screenshots/q3\_movie\_release\_trends\_(3).png)
+!\[Q3 Output](screenshots/q3\_movie\_release\_trends\_3.png)
 
 Insight: Movie releases are not evenly distributed across months. March has the highest number of releases, followed by September and January, indicating that early and mid-year periods are preferred for movie releases. On the other hand, December has the lowest number of releases, suggesting reduced activity towards the end of the year.
 
@@ -92,9 +92,9 @@ Q8. What is the average duration of movies in each genre?
 
 
 
-!\[Q8 Output](screenshots/q8\_average\_movie\_duration\_by\_genre\_(1).png)
+!\[Q8 Output](screenshots/q8\_average\_movie\_duration\_by\_genre\_1.png)
 
-!\[Q8 Output](screenshots/q8\_average\_movie\_duration\_by\_genre\_(2).png)
+!\[Q8 Output](screenshots/q8\_average\_movie\_duration\_by\_genre\_2.png)
 
 
 
@@ -158,9 +158,9 @@ Insight: Taapsee Pannu ranks as the top actress with the highest average rating 
 
 Q26. Highest-grossing movies in top genres
 
-!\[Q26 Output](screenshots/q26\_highest\_grossing\_movies\_(1).png)
+!\[Q26 Output](screenshots/q26\_highest\_grossing\_movies\_1.png)
 
-!\[Q26 Output](screenshots/q26\_highest\_grossing\_movies\_(2).png)
+!\[Q26 Output](screenshots/q26\_highest\_grossing\_movies\_2.png)
 
 
 
@@ -186,9 +186,9 @@ Q29. Top directors based on performance and output
 
 
 
-!\[Q29 Output](screenshots/q29\_top\_directors\_summary\_(1).png)
+!\[Q29 Output](screenshots/q29\_top\_directors\_summary\_1.png)
 
-!\[Q29 Output](screenshots/q29\_top\_directors\_summary\_(2).png)
+!\[Q29 Output](screenshots/q29\_top\_directors\_summary\_2.png)
 
 
 
