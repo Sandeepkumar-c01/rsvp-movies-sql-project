@@ -56,9 +56,7 @@ GitHub
 
 Q3. Movie Release Trends (Year \& Month)
 
-!\[Q3 Output](q3\_movie\_release\_trends\_1.png)
-
-
+!\[Q3 Output](q3.png)
 
 Insight: Movie production was highest in 2017 and slightly decreased in 2018, followed by a significant drop in 2019. This declining trend indicates a possible slowdown in movie releases, which RSVP Movies should consider while planning their future production strategy.
 
